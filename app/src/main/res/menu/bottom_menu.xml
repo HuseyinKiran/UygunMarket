@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Ürünler"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/homeFragment"/>
+
+    <item android:title="Favoriler"
+        android:icon="@drawable/ic_favorites"
+        android:id="@+id/favoritesFragment"/>
+
+    <item android:title="Sepetim"
+        android:icon="@drawable/ic_shopping_cart"
+        android:id="@+id/cartFragment"/>
+
+    <item android:title="Hesabım"
+        android:icon="@drawable/ic_profile"
+        android:id="@+id/accountFragment"/>
+
+</menu>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  cell_home -->
+    <dimen name="cell_home_width">180dp</dimen>
+    <dimen name="cell_home_height">400dp</dimen>
+    <dimen name="text_size_title_home">20sp</dimen>
+    <dimen name="text_size_comment_count_home">20sp</dimen>
+    <dimen name="text_size_price_home">24sp</dimen>
+
+    <!-- activity_product_detail -->
+    <dimen name="text_size_product_category">24sp</dimen>
+    <dimen name="text_size_product_title">26sp</dimen>
+    <dimen name="text_size_product_description">22sp</dimen>
+    <dimen name="text_size_product_rate">22sp</dimen>
+    <dimen name="text_size_product_count">22sp</dimen>
+    <dimen name="text_size_product_price">26sp</dimen>
+    <dimen name="text_size_toolBar">26sp</dimen>
+    <dimen name="margin_productImage">48dp</dimen>
+    <dimen name="marginEnd_icons">32dp</dimen>
+    <dimen name="marginEnd_btnCart">20dp</dimen>
+    <dimen name="padding_screen">16dp</dimen>
+
+</resources>
